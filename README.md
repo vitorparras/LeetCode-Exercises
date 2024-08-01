@@ -13,7 +13,7 @@ This repository centralizes all my LeetCode exercises. It is organized by diffic
 ## Structure
 
 The repository is structured as follows:
-
+```
 LeetCode-Exercises/
       ├── Easy/
       │   ├── problem1/
@@ -36,7 +36,7 @@ LeetCode-Exercises/
           └── problemN/
               ├── solution.py
               └── README.md
-
+```
 ## How to Use
 
 1. Navigate to the folder of the desired difficulty level (`Easy`, `Medium`, or `Hard`).
