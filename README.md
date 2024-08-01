@@ -1,6 +1,5 @@
 # LeetCode-Exercises
 
-# LeetCode Exercises
 
 This repository centralizes all my LeetCode exercises. It is organized by difficulty levels and problem types. Each problem folder contains the problem statement, the solution, and an explanation.
 
