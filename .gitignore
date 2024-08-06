@@ -1,0 +1,47 @@
+# Excluir arquivos e diretórios de build
+bin/
+obj/
+out/
+
+# Excluir arquivos do usuário
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Excluir arquivos de configuração do usuário
+*.vs/
+.vscode/
+*.code-workspace
+
+# Excluir arquivos de pacote de NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Excluir arquivos temporários de sistema
+*.log
+*.tmp
+*.bak
+
+# Excluir arquivos de depuração
+*.pdb
+*.dbg
+
+# Excluir arquivos gerados
+*.dll
+*.exe
+*.app
+*.appx
+*.appxbundle
+*.msi
+*.cab
+
+# Excluir arquivos de perfil do usuário
+*.dotCover
+*.coverage
+*.coveragexml
+*.testsettings
+*.runsettings
+
+# Excluir arquivos específicos do Ride
